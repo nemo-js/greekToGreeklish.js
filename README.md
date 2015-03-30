@@ -1,17 +1,17 @@
-# greekToGreekglish.js
+# greekToGreeklish.js
 
-greekToGreekglish is a utility module which converts Greek strings to Greekglish.
+greekToGreekglish is a utility module which converts Greek strings to Greeklish.
 Install it via `npm install greekToGreekglish`.
 
 
 ## Quick Example
 
 ```javascript
-greekToGreekglish.convert('Καλημέρα κόσμε'); //returns "kalimera kosme"
+greekToGreeklish.convert('Καλημέρα κόσμε'); //returns "kalimera kosme"
 ```
 
 You can also override the default behaviour by providing another parameter 
 
 ```javascript
-greekToGreekglish.convert('Καλημέρα κόσμε', { 'σ': 'z' }); //returns "kalimera kozme"
+greekToGreeklish.convert('Καλημέρα κόσμε', { 'σ': 'z' }); //returns "kalimera kozme"
 ```

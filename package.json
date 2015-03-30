@@ -1,7 +1,7 @@
 {
-  "name": "greekToGreekglish.js",
+  "name": "greekToGreeklish.js",
   "version": "0.0.1",
-  "description": "Converts Greek to Greekglish",
+  "description": "Converts Greek to Greeklish",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "greek",
-    "greekglish"
+    "greekglish",
+    "greeklish"
   ],
   "author": "nemo",
   "license": "BSD",
