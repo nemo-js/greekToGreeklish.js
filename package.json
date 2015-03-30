@@ -1,0 +1,20 @@
+{
+  "name": "greekToGreekglish.js",
+  "version": "0.0.1",
+  "description": "Converts Greek to Greekglish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nemo13/greekToGreekglish.js.git"
+  },
+  "keywords": [
+    "greek",
+    "greekglish"
+  ],
+  "author": "nemo",
+  "license": "BSD",
+  "gitHead": "2536247e505f3aac0de209ae1b4d4ab3b55973ea"
+}
