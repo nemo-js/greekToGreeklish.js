@@ -9,3 +9,9 @@ Install it via `npm install greekToGreekglish`.
 ```javascript
 greekToGreekglish.convert('Καλημέρα κόσμε'); //returns "kalimera kosme"
 ```
+
+You can also override the default behaviour by providing another parameter 
+
+```javascript
+greekToGreekglish.convert('Καλημέρα κόσμε', { 'σ': 'z' }); //returns "kalimera kozme"
+```
