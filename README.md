@@ -1,7 +1,7 @@
 # greekToGreeklish.js
 
-greekToGreekglish is a utility module which converts Greek strings to Greeklish.
-Install it via `npm install greekToGreekglish`.
+greekToGreeklish is a utility module which converts Greek strings to Greeklish.
+Install it via `npm install greekToGreeklish`.
 
 
 ## Quick Example
